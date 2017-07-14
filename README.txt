@@ -3,6 +3,13 @@
 
 ################################################################################
 
+Users who align reads to hg38 may want to switch to branch "hg38". The hg38
+version of CELLULOID uses a modified version of copynumber that allows hg38. 
+It has not been tested.
+
+################################################################################
+
+
 CELLULOID, an R package, is a tool to evaluate ploidy, cellularity, clonal and 
 sub-clonal populations from tumour whole genome sequencing data, and to 
 appropriately derive absolute copy numbers profiles. 
